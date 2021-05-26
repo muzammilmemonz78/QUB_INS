@@ -1,0 +1,2 @@
+# QUB_INS
+QUB Insurance - Insure ABC is releasing a new Home Insurance product in the near future. The company does not currently provide a comparable product, although it does offer other types of insurance. Insure ABC is now developing a marketing strategy for the introduction of this new product, and they want to make sure that they target the existing consumers who are most likely to buy it. You must develop a report for top management presenting a data-driven market using analytics methodologies.
